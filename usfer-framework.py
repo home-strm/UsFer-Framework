@@ -28,7 +28,7 @@ def mainMenu():
     print(Fore.GREEN + "|______//____  >\___  / \___  >__|      ")
     print(Fore.GREEN + "             \/     \/      \/          ")
     print(Fore.GREEN + "                                        ")
-    time.sleep(3)
+    time.sleep(2)
     print(Fore.RED + "               OPTIONS                  ")
     print(Fore.WHITE + "1. Generate new key. 2 . Encrypt string.")
     print(Fore.WHITE + "3. Decrypt string.   4 . Exit.          ")
